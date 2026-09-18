@@ -1,0 +1,1 @@
+# 文化祭 POS\n\nPCとiPhoneを通信させず、バーコードに注文番号・8商品の個数・8商品の価格を格納する試作です。\n\nGitHub Pagesでは index.html / style.css / app.js を同じ階層に置いてください。\n\nカメラ読み取りにはHTTPSが必要です。GitHub PagesはHTTPSで利用できます。
